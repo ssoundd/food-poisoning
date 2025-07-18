@@ -32,7 +32,9 @@ pip install -r requirements.txt
 ### 2. .env 파일 생성
 
 OPENAI_API_KEY
+<br>
 WEATHER_API_KEY
+<br>
 SITOTOXISM_API_KEY
 
 ### 3. 실행
