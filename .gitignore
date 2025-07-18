@@ -1,0 +1,11 @@
+__pycache__/
+cache/
+grid_db/
+sitotoxism_db/
+
+.env
+
+*.zip
+*.pdf
+*.csv
+*.xlsx
