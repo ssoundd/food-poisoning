@@ -60,6 +60,8 @@ SITOTOXISM_API_KEY
 streamlit run app.py
 ```
 
+---
+
 ## 파일 구조
 
 ```plaintext
