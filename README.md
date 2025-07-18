@@ -15,11 +15,11 @@
 
 ```plaintext
 [사용자 질의]
-↓
+    ↓
 [날씨 API] + [식중독 이력 벡터 DB] + [예측 지수]
-↓
+    ↓
 [LangChain Chain] → GPT-4o 기반 응답 생성
-↓
+    ↓
 [Streamlit 대시 보드 출력]
 ```
 
