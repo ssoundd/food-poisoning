@@ -39,7 +39,7 @@ streamlit run app.py
 
 ## 주요 파일 구조
 
-``` 📁 파일 ├── app.py # Streamlit 메인 앱 ├── main.py # LLM 체인, 질의 처리 메인 로직 ├── weather_main.py # 기상청 API 처리 모듈 ├── predict_main.py # 식중독 예측 지수 크롤링/정제 ├── sitotoxism_main.py # 식중독 이력 VECTOR DB 업데이트 ├── sitotoxism_data_loader.py ├── sitotoxism_doc_converter.py ├── sitotoxism_chroma_updater.py ├── summary_card.py # 사이드바 요약 카드 ├── .env # API 키 환경 변수 ├── requirements.txt ```
+```plaintext 📁 파일 ├── app.py # Streamlit 메인 앱 ├── main.py # LLM 체인, 질의 처리 메인 로직 ├── weather_main.py # 기상청 API 처리 모듈 ├── predict_main.py # 식중독 예측 지수 크롤링/정제 ├── sitotoxism_main.py # 식중독 이력 VECTOR DB 업데이트 ├── sitotoxism_data_loader.py ├── sitotoxism_doc_converter.py ├── sitotoxism_chroma_updater.py ├── summary_card.py # 사이드바 요약 카드 ├── .env # API 키 환경 변수 ├── requirements.txt ```
 
 ## 기술 스택
 
