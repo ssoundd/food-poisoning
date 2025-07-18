@@ -57,9 +57,9 @@ with st.sidebar:
             <br>
             >>  <strong>평균 환자 수</strong> : <span style = 'color : #145A32'>{summary['avg_patients']}명</span>
             <br>
-            >>  <strong>최다 원인 바이러스</strong> : <span style = 'color : #145A32'>{summary['top_virus_name']} ({summary['top_virus_count']}명)</span>
+            >>  <strong>최다 원인 바이러스</strong> : <span style = 'color : #145A32'>{summary['top_virus_name']} (총 {summary['top_virus_count']}명)</span>
             <br>
-            >>  <strong>최다 원인 시설</strong> : <span style = 'color : #145A32'>{summary['top_facility_name']} ({summary['top_facility_count']}명)</span>
+            >>  <strong>최다 원인 시설</strong> : <span style = 'color : #145A32'>{summary['top_facility_name']} (총 {summary['top_facility_count']}명)</span>
         </div>
         """,
         unsafe_allow_html = True)
