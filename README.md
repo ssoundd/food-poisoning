@@ -53,6 +53,7 @@ streamlit run app.py
 ├── summary_card.py            # 사이드바 요약 카드
 ├── .env                       # API 키 환경 변수
 ├── requirements.txt
+```
 
 ## 기술 스택
 
